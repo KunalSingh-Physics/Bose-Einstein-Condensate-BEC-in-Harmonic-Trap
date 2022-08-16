@@ -1,0 +1,2 @@
+# Bose-Einstein-Condensate-BEC-in-Harmonic-Trap
+Various models have been developed to calculate the ground state wavefunction of BEC. The Gross Pitaevskii equation models the ground stave wave function of the interacting system of Bosons at temperature T=0K.  In this paper we solve the Time-dependent Gross-Pitaevskii equation using Crank Nicholson Finite Difference  method using Python. The results show the variation due to the non-linear term (effect of interaction between the  atoms) on the ground state wavefunction. 
